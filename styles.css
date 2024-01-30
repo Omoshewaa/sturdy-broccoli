@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    background-size: auto;
+    background-repeat: no-repeat;
+  }
+  #navbar{
+    background-color: red;
+    padding: 20px 62px;
+    position: fixed;
+   
+  }
+  .hero{
+   margin-left: 1000px;
+   position: fixed;
+  }
+  .wrapper{
+   text-decoration: none;
+   padding-right: 20px;
+   color: white;
+   font-size: 20px;
+  }
+  #welcome-section{
+   text-align: center;
+   padding: 100px 0;
+   
+  }
+  .wave{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 60px;
+     margin-top: 0px;
+  }
+  .cage{
+    color: red;
+    font-size: 40px;
+    margin-bottom: 0;
+  }
+  #cave{
+     background-color: purple;
+     padding: 40px 0;
+  }
+  .camper{
+     font-size: 30px;
+     color: white;
+     text-align: center;
+     background-color: blue;
+     margin: 40px 450px;
+     padding: 10px 0;
+  }
+  .line{
+     margin: 0px 450px;
+  }
+  .bake{
+    margin: 25px 25px;
+  }
+  .faith{
+    background-color: black;
+    padding: 25px 0;
+    text-align: center;
+  }
+  .cafe{
+    text-decoration: none;
+    color: white;
+  }
+  .cock{
+    display: flex;
+  }
+  #flower{
+     background-color: purple  
+  }
+  .flowered{
+      text-align: center;
+  }
+  .board{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+    padding: 10px 20px;
+    margin: 100px 0;
+  }
+  .design{
+    text-align: center;
+    color: white;
+    padding: 10px 20px;
+  }
+  .git{
+    text-decoration: none;
+    color: white;
+     padding: 10px 20px;
+      font-size: 20px;
+  }
+  .bouque{
+     font-size: 50px;
+  }
+  #goals{
+   padding: 100px 0;
+  }
+  .slate{
+    border-bottom: 3px solid red;
+    background-color: red;
+  }
+  #projects{
+    display: flex;
+  }
+  .project-tile{
+     color: white;
+     padding-left: 100px;
+      font-size: 20px;
+  }
+  .supply{
+     text-decoration: none;
+      color: white;
+       font-size: 20px;
+  }
+  .cully{
+    color: white;
+    padding-left: 200px;
+    font-size: 20px;
+  }
+  @media onlyscreen and (max-width: 750px){
+     width: 0;
+  }
